@@ -1,5 +1,0 @@
-# Spor ve Beslenme Takip - Streamlit Cloud
-# Kullanılan kütüphaneler: streamlit (arayüz), pandas (veri/grafik)
-
-streamlit>=1.28.0
-pandas>=2.0.0
