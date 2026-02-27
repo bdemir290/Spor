@@ -1,6 +1,0 @@
-# Spor ve Beslenme Takip - Streamlit Cloud
-# streamlit (arayüz), pandas (veri), plotly (grafikler)
-
-streamlit>=1.28.0
-pandas>=2.0.0
-plotly>=5.18.0
